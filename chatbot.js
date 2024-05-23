@@ -1,4 +1,3 @@
-    <script>
 
 !function (w, d, s) {
   var div = d.createElement('div');
@@ -17,4 +16,3 @@
 }(window, document, 'script', '65A04B71-880D-4431-BFA0-E7E483874691', 'onboarding_bot', {
   apiHost: 'https://api-cf-eu-1.sendbird.com'
 });
-</script>
